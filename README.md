@@ -1,5 +1,10 @@
 # Hidrodinamica_Costera
+# Tarea 1: Modelo de Propagación de Oleaje (sin notura)
+Como se menciona en el codigo principal, se utiliza el modelo de Thorton and Guza, 1983, y los datos experimentales R36 y R38.
+Este repositorio contiene la comparación del modelo con los datos experimentales R26 y R28.
 
-Como se menciona en el codigo principal, se utiliza el modelo de Thorton and Guza, 1983, y los datos experimentales R36 y R38 para el análisis y comparación.
+## Abrir en Google Colab
 
-Por lo tanto en este repositorio se agregan R36 y R38.
+**▶️ Haz clic aquí para ejecutar el notebook en Google Colaboratory:**
+
+[ABRIR NOTEBOOK EN COLAB](https://colab.research.google.com/github/piafran8/tarea1_hidrodinamicacostera.ipynb)

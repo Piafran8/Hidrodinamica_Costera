@@ -19,4 +19,4 @@ Para ello, este código necesitará de los archivos 'R36.mat', 'R38.mat', y 'REU
 Por favor, suba estos 3 archivos a la sesión de Colab usando el panel de Archivos (icono de carpeta a la izquierda) antes de ejecutar las celdas de código.
 **Haz clic aquí para ejecutar el notebook en Google Colaboratory:**
 
-[[ABRIR NOTEBOOK EN COLAB](https://github.com/Piafran8/Hidrodinamica_Costera/blob/main/Tarea2_Hidrodinamica.ipynb)
+[ABRIR NOTEBOOK EN COLAB](https://github.com/Piafran8/Hidrodinamica_Costera/blob/main/Tarea2_Hidrodinamica.ipynb)
